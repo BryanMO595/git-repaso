@@ -1,6 +1,6 @@
 # ESTE ES MI PRIMER ARCHIVO
 
-Este es mi repositorio nivel experto en Git
+Este es mi repositorio desde main para provocar un conflicto distinto
 
 ## NUEVA SECCION
 
