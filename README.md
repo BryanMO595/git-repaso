@@ -1,6 +1,7 @@
 # ESTE ES MI PRIMER ARCHIVO
 
-Este es mi repositorio desde main para provocar un conflicto distinto
+
+Este es mi repositorio combinado entre main t feature para conflicto
 
 ## NUEVA SECCION
 
