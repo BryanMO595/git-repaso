@@ -1,6 +1,6 @@
 # ESTE ES MI PRIMER ARCHIVO
 
-Este es mi repositorio PRO para dominar Git y Github
+Este es mi repositorio ULTRA PRO con Git avanzado
 
 ## NUEVA SECCION
 
