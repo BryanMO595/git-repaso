@@ -1,7 +1,7 @@
 # ESTE ES MI PRIMER ARCHIVO
 
 
-Este es mi repositorio combinado entre main t feature para conflicto
+Este cambio lo hice desde repo-clon para provocar conflicto remoto
 
 ## NUEVA SECCION
 
