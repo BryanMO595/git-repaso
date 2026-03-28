@@ -5,7 +5,7 @@ Este es mi repositorio combinado entre main t feature para conflicto
 
 ## NUEVA SECCION
 
-Estoy aprendiendo git a nivel avanzado
+Estoy aprendiendo git a nivel avanzado y super sofisticado
 
 ### SECCION PRUEBA
 
